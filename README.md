@@ -3,6 +3,12 @@
 Bookly is a Flutter mobile application designed for discovering, browsing, and exploring books using the **Google Books API**.  
 It provides a clean, modern UI with smooth navigation, powerful search, and curated book sections like “Best Sellers” and “Featured Books”.
 
+
+![Flutter](https://img.shields.io/badge/Flutter-3.19-blue)
+![Dart](https://img.shields.io/badge/Dart-3.2-blue)
+![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-green)
+
+
 ---
 
 ## 🚀 Features
