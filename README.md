@@ -93,11 +93,11 @@ Follow the steps below to run the app locally.
 
 |   Home Screen  |   Splash Screen   | Products |
 |----------------|-------------------|----------|
-| <img src="lib/images/HomeScreen.png" width="200"> | <img src="lib/images/splash.png" width="200"> | <img src="lib/images/cartwithbooks.png" width="200"> |
+| <img src="assets/images/HomeScreen.png" width="200"> | <img src="assets/images/splash.png" width="200"> | <img src="assets/images/cartwithbooks.png" width="200"> |
 
 |    Cart    | Cart Book | Details |
 |------------|-----------|----------|
-| <img src="lib/images/Cart.png" width="200"> | <img src="lib/images/payment.png" width="200"> | <img src="lib/images/screenshots/bookdatalis.png" width="200"> |
+| <img src="assets/images/Cart.png" width="200"> | <img src="assets/images/payment.png" width="200"> | <img src="assets/images/screenshots/bookdatalis.png" width="200"> |
 
 
 🤝 Contributing
