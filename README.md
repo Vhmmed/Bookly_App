@@ -97,7 +97,7 @@ Follow the steps below to run the app locally.
 
 |    Cart    | Cart Book | Details |
 |------------|-----------|----------|
-| <img src="assets/images/Cart.png" width="200"> | <img src="assets/images/payment.png" width="200"> | <img src="assets/images/screenshots/bookdatalis.png" width="200"> |
+| <img src="assets/images/Cart.png" width="200"> | <img src="assets/images/payment.png" width="200"> | <img src="assets/images/bookdatalis.png" width="200"> |
 
 
 🤝 Contributing
