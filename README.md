@@ -1,6 +1,4 @@
-# 📚 Bookly App
-
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Vhmmed/Bookly_App)
+#  Bookly App
 
 Bookly is a Flutter mobile application designed for discovering, browsing, and exploring books using the **Google Books API**.  
 It provides a clean, modern UI with smooth navigation, powerful search, and curated book sections like “Best Sellers” and “Featured Books”.
@@ -47,21 +45,6 @@ This project follows **Feature-Driven Clean Architecture** for scalability and c
 
 ---
 
-## 📂 Project Structure
-
-  lib/
-  ├── core/              # Shared resources: router, DI, API service, styles
-  ├── feature/
-  │   ├── home/          # Home, book details, cart
-  │   │   ├── data/
-  │   │   ├── manager/
-  │   │   └── presentation/
-  │   ├── search/        # Search screen + logic
-  │   └── splash/        # Splash screen
-  └── main.dart          # App entry point + DI setup
-
----
-
 ## 🚀 Getting Started
 
 Follow the steps below to run the app locally.
@@ -91,13 +74,13 @@ Follow the steps below to run the app locally.
 
 📸 Screenshots
 
-|   Home Screen  |   Splash Screen   | Products |
+|   Home Screen  |   Splash Screen   |  Details |
 |----------------|-------------------|----------|
-| <img src="assets/images/HomeScreen.png" width="200"> | <img src="assets/images/splash.png" width="200"> | <img src="assets/images/cartwithbooks.png" width="200"> |
+| <img src="assets/images/splash.png" width="200"> |<img src="assets/images/HomeScreen.png" width="200"> | <img src="assets/images/bookdaitalis.png" width="200"> |
 
-|    Cart    | Cart Book | Details |
-|------------|-----------|----------|
-| <img src="assets/images/Cart.png" width="200"> | <img src="assets/images/payment.png" width="200"> | <img src="assets/images/bookdaitalis.png" width="200"> |
+|    Cart    |  Products | Cart Book  |
+|------------|-----------|------------|
+| <img src="assets/images/Cart.png" width="200"> | <img src="assets/images/cartwithbooks.png" width="200"> | <img src="assets/images/payment.png" width="200"> |
 
 
 🤝 Contributing
